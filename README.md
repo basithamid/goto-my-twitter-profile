@@ -1,2 +1,2 @@
-# goto-my-twitter-profile
-Using splinter python web application test framework, i can goto my twitter profile. Simple
+# Splinter
+This repository consists of my codes I've written while learning splinter python web application test framework.
